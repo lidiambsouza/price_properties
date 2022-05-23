@@ -25,3 +25,11 @@ Executar uma limpeza do conjunto de dados fornecido e realizar uma análise desc
 * **price** : Price published in the ad.
 * **currency** : Currency of the published price.
 * **surface_total_in_m2** : Total area in m²
+
+## Como executar o projeto
+1. Crie o ambiente com o comando:
+**python -m venv venv**
+2. Ative o ambiente com o comando:
+* Windows: **.\venv\Scripts\activate.bat**
+* Linux: **source <venv>/bin/activate**
+3. Instale as dependências: **pip install -r requirements.txt**
