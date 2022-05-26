@@ -45,3 +45,4 @@ tornado==6.1
 traitlets==5.2.1.post0
 urllib3==1.26.9
 wcwidth==0.2.5
+seaborn
