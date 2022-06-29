@@ -16,6 +16,7 @@ ipykernel==6.13.0
 ipython==8.3.0
 jedi==0.18.1
 Jinja2==3.1.2
+joblib==1.1.0
 jupyter-client==7.3.1
 jupyter-core==4.10.0
 kiwisolver==1.4.2
@@ -27,6 +28,7 @@ numpy==1.22.3
 packaging==21.3
 pandas==1.4.2
 parso==0.8.3
+patsy==0.5.2
 pickleshare==0.7.5
 Pillow==9.1.1
 prompt-toolkit==3.0.29
@@ -39,10 +41,15 @@ pytz==2022.1
 pywin32==304
 pyzmq==22.3.0
 requests==2.27.1
+scikit-learn==1.1.1
+scipy==1.8.1
+seaborn==0.11.2
 six==1.16.0
+sklearn==0.0
 stack-data==0.2.0
+statsmodels==0.13.2
+threadpoolctl==3.1.0
 tornado==6.1
 traitlets==5.2.1.post0
 urllib3==1.26.9
 wcwidth==0.2.5
-seaborn
